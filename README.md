@@ -1,13 +1,13 @@
 # SQL_Interview
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dfnietop/SQL_Interview/master?labpath=SQLTest.ipynb)
 .. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/dfnietop/SQL_Interview/master?labpath=SQLTest.ipynb
+ :target: https://mybinder.org/v2/gh/dfnietop/SQL_Interview/interview?labpath=SQLTest.ipynb
 
 
 # Python_Interview
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dfnietop/SQL_Interview/master?labpath=SQLTest.ipynb)
 .. image:: https://mybinder.org/badge_logo.svg
-:target: https://mybinder.org/v2/gh/dfnietop/SQL_Interview/master?labpath=PythonTest.ipynb
+:target: https://mybinder.org/v2/gh/dfnietop/SQL_Interview/interview?labpath=PythonTest.ipynb
 
 
 
